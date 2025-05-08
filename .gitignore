@@ -399,3 +399,23 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea/
+
+
+# Rider/IntelliJ
+.idea/
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Ustawienia lokalne
+*.user
+*.suo
+launchSettings.json
+appsettings.Development.json
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
